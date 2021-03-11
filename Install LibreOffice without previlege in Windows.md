@@ -1,4 +1,4 @@
-# Install Libre office without Windows previlege 
+# Install Libre office (LO) without Windows previlege 
 
 1. Download and extract the .msi installation file into a folder
 2. From a command prompt: dir *.msi
@@ -10,3 +10,7 @@ Copy vcruntime140.dll and vcruntime140_1.dll from C:\Windows\System32 to the ins
 
 # Original post: 
 https://wiki.documentfoundation.org/Installing_in_parallel/Windows
+
+# In case of unsuccessful executation of LO, then download the portable version from:
+https://www.libreoffice.org/download/portable-versions/
+Extract, run the corresponding file and enjouy the world of LO.
