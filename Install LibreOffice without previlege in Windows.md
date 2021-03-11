@@ -14,4 +14,4 @@ https://wiki.documentfoundation.org/Installing_in_parallel/Windows
 # In case of unsuccessful executation of LO, then download the portable version from:
 https://www.libreoffice.org/download/portable-versions/
 
-Extract, run the corresponding file and enjouy the world of LO.
+Extract, run the corresponding file and enjoy the world of LO.
